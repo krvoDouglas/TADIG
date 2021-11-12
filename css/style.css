@@ -15,6 +15,9 @@
     src: url(../Img/IBMPlexMono-Regular.ttf);
 }
 
+body { min-width: 1167px; }
+
+
 
 h1{
     font-size: 110px;
